@@ -5,3 +5,8 @@ Hier werden regelmässige Vorab-Versionen des Standards eCH-0219 veröffentlicht
 Der Inhalt des Standards ist vorläufig und ständigen Änderungen unterworfen. Bitte benutzen Sie die „Issues“ um Feedback zu geben. Geben Sie dabei immer an, auf welche Version Sie sich beziehen.
 
 Alle Kommentare, Anmerkungen und Korrekturen sind willkommen und fliessen dann jeweils in die nächste Version ein.
+
+## Neu in v7:
+- Stakeholder eingefügt (Regulator, Führung, Dienstanbieter, Leistungsbezüger (LB), Leistungserbringer (LB), Ressource)
+- Rollen eingefügt (IAM-Dienstanbieter, IAM-Führung, IAM-Regulator, IAM-Support)
+- Diverse kleinere Anpassungen
