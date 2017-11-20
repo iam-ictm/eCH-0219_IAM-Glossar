@@ -6,6 +6,9 @@ Der Inhalt des Standards ist vorläufig und ständigen Änderungen unterworfen. 
 
 Alle Kommentare, Anmerkungen und Korrekturen sind willkommen und fliessen dann jeweils in die nächste Version ein.
 
+## Neu in v8:
+- Version für die eCH Fachgruppensitzung vom 4. Dezember 2017
+
 ## Neu in v7:
 - Stakeholder eingefügt (Regulator, Führung, Dienstanbieter, Leistungsbezüger (LB), Leistungserbringer (LB), Ressource)
 - Rollen eingefügt (IAM-Dienstanbieter, IAM-Führung, IAM-Regulator, IAM-Support)
